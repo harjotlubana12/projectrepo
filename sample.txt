@@ -1,4 +1,0 @@
-My first GIT prac
-this file is changed
-third time changed
-forth time
